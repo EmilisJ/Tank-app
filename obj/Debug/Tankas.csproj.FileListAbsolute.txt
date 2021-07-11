@@ -1,0 +1,12 @@
+/Users/emilisjaneliauskas/Documents/dotNET/Tankas/Tankas/obj/Debug/Tankas.csproj.AssemblyReference.cache
+/Users/emilisjaneliauskas/Documents/dotNET/Tankas/Tankas/obj/Debug/Tankas.csproj.CoreCompileInputs.cache
+/Users/emilisjaneliauskas/Documents/dotNET/Tankas/Tankas/bin/Debug/Tankas.exe
+/Users/emilisjaneliauskas/Documents/dotNET/Tankas/Tankas/bin/Debug/Tankas.pdb
+/Users/emilisjaneliauskas/Documents/dotNET/Tankas/Tankas/obj/Debug/Tankas.exe
+/Users/emilisjaneliauskas/Documents/dotNET/Tankas/Tankas/obj/Debug/Tankas.pdb
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/bin/Debug/Tankas.exe
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/bin/Debug/Tankas.pdb
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/obj/Debug/Tankas.csproj.AssemblyReference.cache
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/obj/Debug/Tankas.csproj.CoreCompileInputs.cache
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/obj/Debug/Tankas.exe
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/obj/Debug/Tankas.pdb

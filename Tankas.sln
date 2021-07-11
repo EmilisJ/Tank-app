@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tankas", "Tankas.csproj", "{F010EF37-BD9A-42F3-9E1F-94DD27B54625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F010EF37-BD9A-42F3-9E1F-94DD27B54625}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F010EF37-BD9A-42F3-9E1F-94DD27B54625}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F010EF37-BD9A-42F3-9E1F-94DD27B54625}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F010EF37-BD9A-42F3-9E1F-94DD27B54625}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A376D836-445D-471C-952E-ECB8B7E47C83}
+	EndGlobalSection
+EndGlobal

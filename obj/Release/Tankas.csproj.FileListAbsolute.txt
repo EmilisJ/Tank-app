@@ -1,0 +1,3 @@
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/bin/Release/Tankas.exe
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/obj/Release/Tankas.csproj.CoreCompileInputs.cache
+/Users/emilisjaneliauskas/Documents/EJ/dotNET/C# Projects/Tankas/Tankas/obj/Release/Tankas.exe

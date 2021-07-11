@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F010EF37-BD9A-42F3-9E1F-94DD27B54625}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tankas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/Program.cs">
+    <Files>
+      <File FileName="Properties/Tank.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Properties/Program.cs" Line="32" Column="52" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tankas" expanded="True">
+            <Node name="Tankas" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
